@@ -1,9 +1,9 @@
 "use client"
 
 import { useState } from "react"
-import { Button } from "@/frontend/components/ui/button"
-import { CardContent } from "@/frontend/components/ui/card"
-import { Alert, AlertDescription } from "@/frontend/components/ui/alert"
+import { Button } from "@/components/ui/button"
+import { CardContent } from "@/components/ui/card"
+import { Alert, AlertDescription } from "@/components/ui/alert"
 import { AlertCircle, Loader2 } from "lucide-react"
 
 export default function AmharicNewsClassifier() {
